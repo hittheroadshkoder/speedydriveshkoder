@@ -173,10 +173,7 @@
     <div class="social-icons">
       <a href="https://www.instagram.com/autocar_rental_47?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank" title="Instagram">
         <i class="fab fa-instagram"></i>
-      </a>
-      <a href="https://www.linkedin.com/in/yourusername" target="_blank" title="LinkedIn">
-        <i class="fab fa-linkedin"></i>
-      </a>
+  
     </div>
   </section>
 
