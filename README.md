@@ -172,8 +172,7 @@
     <p><strong>Address:</strong> <a href="https://maps.app.goo.gl/hgiUoCLy3EKmhfJo9" target="_blank">Rruga Pogej, Shkodër 4001</a></p>
     <div class="social-icons">
       <a href="https://www.instagram.com/autocar_rental_47?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank" title="Instagram">
-        <i class="fab fa-instagram"></i>
-  
+        <i class="fab fa-instagram"></i>  
     </div>
   </section>
 
