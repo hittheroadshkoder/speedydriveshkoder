@@ -1,4 +1,3 @@
-# speedydriveshkoder
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -48,8 +47,23 @@
     }
 
     ul {
-      list-style: square;
-      padding-left: 20px;
+      list-style: none;
+      padding-left: 0;
+    }
+
+    ul li {
+      padding: 8px 0;
+      border-bottom: 1px solid #ddd;
+    }
+
+    .available {
+      color: green;
+      font-weight: bold;
+    }
+
+    .unavailable {
+      color: red;
+      font-weight: bold;
     }
 
     form label {
@@ -132,10 +146,18 @@
   <section id="cars">
     <h2>Available Cars</h2>
     <ul>
-      <li><strong>Toyota Corolla</strong> – Compact, fuel-efficient</li>
-      <li><strong>Ford Explorer</strong> – SUV, family-friendly</li>
-      <li><strong>BMW 3 Series</strong> – Luxury and comfort</li>
-      <li><strong>Fiat 500</strong> – Perfect for city driving</li>
+      <li>1. <strong>Audi A7</strong> – <span class="available">Available</span></li>
+      <li>2. <strong>Audi A4</strong> – <span class="available">Available</span></li>
+      <li>3. <strong>Mercedes-Benz C-Class</strong> – <span class="available">Available</span></li>
+      <li>4. <strong>Mercedes-Benz E-Class</strong> – <span class="available">Available</span></li>
+      <li>5. <strong>Mercedes-Benz A-Class</strong> – <span class="available">Available</span></li>
+      <li>6. <strong>Porsche Cayenne</strong> – <span class="available">Available</span></li>
+      <li>7. <strong>Volkswagen G-E-T-T-A</strong> – <span class="available">Available</span></li>
+      <li>8. <strong>Volkswagen Golf 5</strong> – <span class="available">Available</span></li>
+      <li>9. <strong>Volkswagen Golf 6</strong> – <span class="available">Available</span></li>
+      <li>10. <strong>Ford Focus</strong> – <span class="available">Available</span></li>
+      <li>11. <strong>Seat Altea</strong> – <span class="available">Available</span></li>
+      <li>12. <strong>Nissan QASHQAI</strong> – <span class="available">Available</span></li>
     </ul>
   </section>
 
@@ -150,10 +172,18 @@
 
       <label for="car">Choose a Car:</label>
       <select id="car" name="car">
-        <option value="Toyota Corolla">Toyota Corolla</option>
-        <option value="Ford Explorer">Ford Explorer</option>
-        <option value="BMW 3 Series">BMW 3 Series</option>
-        <option value="Fiat 500">Fiat 500</option>
+        <option value="Audi A7">Audi A7</option>
+        <option value="Audi A4">Audi A4</option>
+        <option value="Mercedes-Benz C-Class">Mercedes-Benz C-Class</option>
+        <option value="Mercedes-Benz E-Class">Mercedes-Benz E-Class</option>
+        <option value="Mercedes-Benz A-Class">Mercedes-Benz A-Class</option>
+        <option value="Porsche Cayenne">Porsche Cayenne</option>
+        <option value="Volkswagen G-E-T-T-A">Volkswagen G-E-T-T-A</option>
+        <option value="Volkswagen Golf 5">Volkswagen Golf 5</option>
+        <option value="Volkswagen Golf 6">Volkswagen Golf 6</option>
+        <option value="Ford Focus">Ford Focus</option>
+        <option value="Seat Altea">Seat Altea</option>
+        <option value="Nissan QASHQAI">Nissan QASHQAI</option>
       </select>
 
       <label for="pickup">Pick-Up Date:</label>
@@ -172,7 +202,8 @@
     <p><strong>Address:</strong> <a href="https://maps.app.goo.gl/hgiUoCLy3EKmhfJo9" target="_blank">Rruga Pogej, Shkodër 4001</a></p>
     <div class="social-icons">
       <a href="https://www.instagram.com/autocar_rental_47?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank" title="Instagram">
-        <i class="fab fa-instagram"></i>  
+        <i class="fab fa-instagram"></i>
+      </a>
     </div>
   </section>
 
