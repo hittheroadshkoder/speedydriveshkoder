@@ -1,7 +1,6 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>SpeedyDrive - Car Rentals</title>
   <!-- Font Awesome for social icons -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
   <style>
