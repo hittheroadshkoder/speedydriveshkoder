@@ -1,9 +1,38 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>SpeedyDrive - Car Rentals</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="google-site-verification" content="j8wJCiLTFIvrqtx81YIfZVDvnhBW1qAJKeBwV2fFPUo" />
+  <title>SpeedyDrive - Car Rentals in Shkodër, Albania</title>
+
+  <!-- SEO Meta Tags -->
+  <meta name="description" content="Rent affordable cars in Shkodër, Albania. SpeedyDrive offers Audi, Mercedes, VW, Ford & more. Easy online booking and top customer service.">
+  <meta name="keywords" content="car rental Shkodër, rent car Albania, Audi rental Albania, car hire Shkoder, Mercedes rentals, Volkswagen rental">
+  <meta name="author" content="SpeedyDrive Shkodër">
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:title" content="SpeedyDrive - Car Rentals in Shkodër, Albania">
+  <meta property="og:description" content="Fast and reliable car rental service in Shkodër. Choose from our fleet of Audi, Mercedes, VW, and more. Book online today.">
+  <meta property="og:url" content="https://hittheroadshkoder.github.io/speedydriveshkoder/">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="https://hittheroadshkoder.github.io/speedydriveshkoder/cover.jpg">
+
+  <!-- Twitter Cards -->
+  <meta name="twitter:title" content="SpeedyDrive - Car Rentals in Shkodër">
+  <meta name="twitter:description" content="Affordable car rentals in Shkodër, Albania. Choose Audi, Mercedes, VW, and more.">
+  <meta name="twitter:image" content="https://hittheroadshkoder.github.io/speedydriveshkoder/cover.jpg">
+  <meta name="twitter:card" content="summary_large_image">
+
+  <!-- Canonical URL -->
+  <link rel="canonical" href="https://hittheroadshkoder.github.io/speedydriveshkoder/">
+
+  <!-- Favicon -->
+  <link rel="icon" href="favicon.ico" type="image/x-icon">
+
   <!-- Font Awesome for social icons -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -180,35 +209,4 @@
         <option value="Volkswagen G-E-T-T-A">Volkswagen G-E-T-T-A</option>
         <option value="Volkswagen Golf 5">Volkswagen Golf 5</option>
         <option value="Volkswagen Golf 6">Volkswagen Golf 6</option>
-        <option value="Ford Focus">Ford Focus</option>
-        <option value="Seat Altea">Seat Altea</option>
-        <option value="Nissan QASHQAI">Nissan QASHQAI</option>
-      </select>
-
-      <label for="pickup">Pick-Up Date:</label>
-      <input type="date" id="pickup" name="pickup">
-
-      <label for="dropoff">Drop-Off Date:</label>
-      <input type="date" id="dropoff" name="dropoff">
-
-      <input type="submit" value="Book Now">
-    </form>
-  </section>
-
-  <section id="contact">
-    <h2>Contact Us</h2>
-    <p><strong>Phone:</strong> 00355692352601</p>
-    <p><strong>Address:</strong> <a href="https://maps.app.goo.gl/hgiUoCLy3EKmhfJo9" target="_blank">Rruga Pogej, Shkodër 4001</a></p>
-    <div class="social-icons">
-      <a href="https://www.instagram.com/autocar_rental_47?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank" title="Instagram">
-        <i class="fab fa-instagram"></i>
-      </a>
-    </div>
-  </section>
-
-  <footer>
-    <p>&copy; 2025 SpeedyDrive. All rights reserved.</p>
-  </footer>
-
-</body>
-</html>
+        <option value="For
