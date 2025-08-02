@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -203,27 +203,4 @@
       </select>
 
       <label for="pickup">Pick-Up Date:</label>
-      <input type="date" id="pickup" name="pickup">
-
-      <label for="dropoff">Drop-Off Date:</label>
-      <input type="date" id="dropoff" name="dropoff">
-
-      <input type="submit" value="Book Now">
-    </form>
-  </section>
-  <section id="contact">
-    <h2>Contact Us</h2>
-    <p><strong>Phone:</strong> 00355692352601</p>
-    <p><strong>Address:</strong> <a href="https://maps.app.goo.gl/hgiUoCLy3EKmhfJo9" target="_blank">Rruga Pogej, Shkodër 4001</a></p>
-    <div class="social-icons">
-      <a href="https://www.instagram.com/autocar_rental_47?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank" title="Instagram">
-        <i class="fab fa-instagram"></i>
-    </div>
-  </section>
-
-  <footer>
-    <p>&copy; 2025 SpeedyDrive. All rights reserved.</p>
-  </footer>
-
-</body>
-</html>
+      <input type="date" id="pickup" name="pick
