@@ -211,7 +211,6 @@
       <input type="submit" value="Book Now">
     </form>
   </section>
-
   <section id="contact">
     <h2>Contact Us</h2>
     <p><strong>Phone:</strong> 00355692352601</p>
